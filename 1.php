@@ -1,3 +1,5 @@
 <?php
 
-echo "Hello GIT";
+echo "Helo GIT";
+
+echo "New Sting";
