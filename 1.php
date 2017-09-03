@@ -1,9 +1,8 @@
 <?php
 
-echo "Helo";
+echo "Helo World !!";
 
 echo "New Sting";
 
-echo "333";
 
-echo '  nEW Branch   new_2  ';
+echo 'NEW Branch   new_2';
